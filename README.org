@@ -1,10 +1,12 @@
+#+OPTIONS: toc:2
+
 * Tools to Manage AWS
 
 ** EC2
-*** Create Snapshots
+- [[https://github.com/wujiang/aws_tools/blob/master/ec2_snapshot.py][ec2_snapshot.py]]: Create Snapshots
 
 ** S3
-*** Clean Files
+- [[https://github.com/wujiang/aws_tools/blob/master/s3_clean_keys.py][s3_clean_keys.py]]: Clean Files
 
 ** Route 53
-*** Dynamic DNS
+- [[https://github.com/wujiang/aws_tools/blob/master/route53_ddns.py][route53_ddns.py]]: Dynamic DNS
